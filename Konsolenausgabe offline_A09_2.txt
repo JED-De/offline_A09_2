@@ -1,0 +1,20 @@
+Started by user Fh Aachen Studierende 
+Building in workspace /tmp/jenkins_home/workspace/Aufgabe_A09_2
+Copying file to offline_A09_2.cpp
+[Aufgabe_A09_2] $ /bin/sh -e /tmp/jenkins682721930788422338.sh
+gip_unit_test::unit_case_A : OK
+gip_unit_test::unit_case_B : OK
+gip_unit_test::unit_case_C : OK
+gip_unit_test::unit_case_D : OK
+gip_unit_test::unit_case_E : OK
+OK (5)
+[WARNINGS]Parsing warnings in console log with parser GNU C Compiler 4 (gcc)
+Skipping warnings blame since Git is the only supported SCM up to now.%n
+INFO: Starting to record.
+INFO: Processing CppUnit-1.12.1 (default)
+INFO: [CppUnit-1.12.1 (default)] - 1 test report file(s) were found with the pattern '**/*.xml' relative to '/tmp/jenkins_home/workspace/Aufgabe_A09_2' for the testing framework 'CppUnit-1.12.1 (default)'.
+INFO: Check 'Failed Tests' threshold.
+INFO: Check 'Skipped Tests' threshold.
+INFO: Setting the build status to SUCCESS
+INFO: Stopping recording.
+Finished: SUCCESS
